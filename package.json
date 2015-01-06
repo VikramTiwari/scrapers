@@ -1,0 +1,27 @@
+{
+  "name": "scrapers",
+  "version": "0.0.1",
+  "description": "scrapers",
+  "main": "scrap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VikramTiwari/scrapers.git"
+  },
+  "keywords": [
+    "scrap"
+  ],
+  "author": "Vikram Tiwari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VikramTiwari/scrapers/issues"
+  },
+  "homepage": "https://github.com/VikramTiwari/scrapers",
+  "dependencies": {
+    "async": "^0.9.0",
+    "cheerio": "^0.18.0",
+    "request": "^2.51.0"
+  }
+}
