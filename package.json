@@ -21,10 +21,10 @@
   "homepage": "https://github.com/VikramTiwari/scrapers",
   "dependencies": {
     "async": "^2.0.1",
-    "cheerio": "^0.20.0",
+    "cheerio": "^0.22.0",
     "request": "^2.74.0"
   },
   "devDependencies": {
-    "standard": "^7.1.2"
+    "standard": "^10.0.2"
   }
 }
